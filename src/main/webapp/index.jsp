@@ -1,9 +1,35 @@
 <html>
 <body>
-<h1><font color='green'>Welcome to Ashok IT - Software Training Institute <font></h1>
-<h2>Learn Here.. Lead Anywhere..!! </h2>
 
-<p>Ashok IT is a leading Indian IT training institute preparing tech-aspirants for flourishing careers in this challenging and competitive domain since 2020. We offer flexible online training options that allow our students to study conveniently and progress on their preferred pace. Teaching at Ashok IT is supported by years of extensive academic and industry experience, innovative teaching methodologies, and high-quality educational resources.</p>
+<h1><font color="green">Welcome to My Portfolio</font></h1>
+
+<h2>DevOps & Cloud Engineer</h2>
+
+<p>
+My name is Shyam Gadala. I am a recent B.Tech graduate in Electronics and Communication Engineering (ECE)
+from Bharath Institute of Higher Education and Research, Chennai.
+I am passionate about DevOps, Cloud Computing, and Automation.
+</p>
+
+<p>
+I have hands-on experience with AWS, Linux, Git, GitHub, Jenkins, Docker,
+Kubernetes, Terraform, Ansible, Maven, SonarQube, Nexus, and CI/CD pipelines.
+</p>
+
+<p>
+Projects:
+<ul>
+<li>AWS Three-Tier Architecture Deployment</li>
+<li>Dockerized Java Web Application Deployment</li>
+<li>CI/CD Pipeline using Jenkins, Maven, SonarQube, Nexus, and Tomcat</li>
+<li>Infrastructure Provisioning using Terraform</li>
+</ul>
+</p>
+
+<p>
+Email: your-email@example.com<br>
+GitHub: github.com/gadalashyam
+</p>
 
 </body>
 </html>
