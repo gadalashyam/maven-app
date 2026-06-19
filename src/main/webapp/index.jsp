@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<h1><font color="green">Welcome to My Portfolio</font></h1>
+<h1> color="green">Welcome to My Portfolio</font></h1>
 
 <h2>DevOps & Cloud Engineer</h2>
 
